@@ -1,0 +1,45 @@
+.flexArticles {
+    display: flex;
+    justify-content: space-around;
+}
+
+.centerInputs{
+    position: relative;
+    width: 40%;
+
+    margin-top: 7%;
+}
+
+.fontSize {
+    font-size: var(--fuenteMediana);
+
+    margin-bottom: 10%;
+
+    text-align: center;
+}
+
+.inputStyle {
+    width: 60%;
+    height: 30px;
+
+    margin: 0 19% 0 19%;
+
+    border-radius: 5px;
+    border: 1px solid #000000;
+
+    background-color: rgba(255, 255, 255, 0%);
+
+    text-align: center;
+}
+
+.centerSets {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-top: 10%;
+}
+
+.centerSets p {
+    margin-bottom: 15%;
+}
