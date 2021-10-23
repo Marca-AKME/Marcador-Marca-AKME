@@ -1,0 +1,42 @@
+.containerBubble{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bubbleInfo {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  background: rgb(45, 253, 69);
+  background: linear-gradient(
+    0deg,
+    rgba(45, 253, 69, 0.19091386554621848) 0%,
+    rgba(45, 253, 69, 0.8463760504201681) 100%
+  );
+  border-radius: 20px;
+  padding: 5%;
+}
+
+.iconsSize {
+  width: 13%;
+}
+.iconsSizeButton {
+  width: var(--width_100);
+}
+.buttonX {
+  width: 13%;
+  background: transparent;
+  border: transparent;
+}
+.bubbleData {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bubbleData2 {
+  display: flex;
+}
+.marginParrafo{
+    margin-right: 9%;
+}

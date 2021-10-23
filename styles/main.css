@@ -10,3 +10,7 @@ body{
     background-size: cover;
     height: 100vh;
 }
+
+p{
+    font-size: 1.3em;
+}
