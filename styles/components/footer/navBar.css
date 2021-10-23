@@ -1,0 +1,12 @@
+.fondofooter nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.icono1pts {
+    color: rgba(5, 218, 64, 1);
+    font-weight: bold;
+    font-size: 2em;
+    
+}

@@ -1,0 +1,8 @@
+@import './navBar.css';
+
+.fondoFooter {
+    position: absolute;
+    bottom: 0px;
+    height: 20%;
+    width: 100%;
+}
