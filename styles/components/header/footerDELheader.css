@@ -1,6 +1,10 @@
+.container-cronometro {
+    display: flex;
+    justify-content: center;
+}
+
 .flexFooterH {
     display: flex;
-    justify-content: space-around;
     align-items: center;
 }
 
@@ -10,7 +14,11 @@
     font-size: var(--fuenteMediana);
     border-radius: 10px;
 
+    margin: 0 20px 0 20px;
     padding: 2%;
+
+    display: flex;
+    flex-direction: row;
 }
 
 .fondo {
