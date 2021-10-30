@@ -17,3 +17,14 @@ body {
     font-family:'Averia Gruesa Libre', cursive;
     background-color: var(--background_color);
 }
+
+.homeScreen {
+    display: block;
+    background-image: url("/img/fondo1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.marcadorScreen {
+    display: none;
+}

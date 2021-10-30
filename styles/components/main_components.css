@@ -1,1 +1,3 @@
 @import '/styles/components/homeScreenStyles/main_homeScreen.css';
+@import './header/main_header.css';
+@import './header/mainDELheader.css';
