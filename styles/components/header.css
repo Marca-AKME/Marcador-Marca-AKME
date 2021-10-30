@@ -7,6 +7,11 @@ h1{
     font-size: 8vw;
     font-weight: 800;
     margin-top: 5%;
+    padding-bottom: 5px;
+    background: linear-gradient(90deg, #07E2E4 0%, #257DB0 51.04%, #6D39C8 100%);
+    -webkit-text-stroke: 0.7px #000000;
+    -webkit-background-clip: text;
+    color: transparent;
     
 }
 .subtittle-homeScreen{
