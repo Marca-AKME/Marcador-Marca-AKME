@@ -2,4 +2,5 @@
 
 html {
   --background_color: rgb(143, 145, 209);
+  --var_size: 100%;
 }

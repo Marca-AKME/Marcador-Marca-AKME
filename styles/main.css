@@ -3,6 +3,7 @@
 @import 'reset.css';
 @import './variables.css';
 @import './components/main_components.css';
+@import '/styles/AveriaGruesaLibre-Regular.ttf';
 /*view port*/
 /*
 h1 {
@@ -13,5 +14,9 @@ h1 {
 */
 
 body {
+    font-family:'Averia Gruesa Libre', cursive;
     background-color: var(--background_color);
+    background-image: url("/img/fondo1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
