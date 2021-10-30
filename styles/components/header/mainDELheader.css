@@ -1,4 +1,4 @@
-.contadores{
+.counters{
     display: flex;
     justify-content: space-evenly;
     margin-top: 10px;
@@ -19,16 +19,16 @@
     width: 40%;;
 }
 
-.contadorSets{
+.counterSets{
     font-size: 5vw;
     padding: 2px;
 }
 
-.contadorPuntos{
+.pointsCounter{
     font-size: 18vw;
 }
 
-.guion{
+.script{
     padding-bottom: 11px;
 }
 
