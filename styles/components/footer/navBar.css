@@ -1,7 +1,10 @@
-.fondofooter nav {
+.nav-4rules{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    align-items: center;
+
+    margin-top: 10px;
 }
 
 .icono1pts {

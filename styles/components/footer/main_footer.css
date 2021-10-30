@@ -1,8 +1,14 @@
 @import './navBar.css';
+@import './popUp.css';
 
 .fondoFooter {
     position: absolute;
     bottom: 0px;
     height: 20%;
+
     width: 100%;
+
+    background-color: rgba(233, 233, 233, 15%);
+
+    overflow-y: hidden;
 }

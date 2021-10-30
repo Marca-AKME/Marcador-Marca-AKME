@@ -1,0 +1,30 @@
+.change-popUp{
+    background-image: url('../../../img-popUp/popUp-yellow.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+    height: 100%;
+    
+}
+
+.flex-Icons {
+   display: flex;
+   align-items: center;
+   
+   width: auto;
+   height: inherit;
+
+   overflow-x: scroll;
+   overflow-y: hidden;
+   scroll-snap-type: x mandatory;
+}
+
+.flex-Icons li {
+    margin:20px 10px 10px 20px;
+    scroll-snap-align: center;
+}
+
+.batidaNet {
+   width: 45px;
+   height: 40px;
+}
